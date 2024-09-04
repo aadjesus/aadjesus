@@ -6,16 +6,16 @@
 
 <!-- Presentation -->
 <p>
-  Me chamos Alessandro, um programador que adora desafios.
+  Me chamos Alessandro, um programador que adora desafios 'pero no mucho'.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 40..e tantos anos, atualmente moro no Brasil. Tenho e experiência com os bancos de dados ORACLE, SQL Server, Postgresql, Delphi, C#.
-
-  - ⚡ Gosto de filmes\series, torcedor do Corinthias! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
+  - 💬 Tenho quarenta e tantos anos, casado com uma lina mulher ñ é a "Julia Roberts", três filhos e netos onde cada um me envelheceu 10 anos, morador do extremo sul de Sampa.
+  - ⚡ Gosto de filmes e series, torcedor de televisão pelo Corinthians!
+  - Tenho experiência com os bancos de dados ORACLE, SQL Server, Postgresql com as linguagem de programação C#, Delphi e JavaScript`'basiquinho'`.  
 </details>
 
 <!-- Links -->
