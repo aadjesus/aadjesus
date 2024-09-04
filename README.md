@@ -1,17 +1,17 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá</h1></summary>
+    <summary><h1 style="display: inline-block">Olá </h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Me chamos Alessandro, um programador que adora desafios 'pero no mucho'.
+  Me chamos Ale vulgo `djou`, programador que adora desafios `pero no mucho`.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 Mais </summary>
 
   - 💬 Tenho quarenta e tantos anos, casado com uma lina mulher ñ é a "Julia Roberts", três filhos e netos onde cada um me envelheceu 10 anos, morador do extremo sul de Sampa.
   - ⚡ Gosto de filmes e series, torcedor de televisão pelo Corinthians!
@@ -27,7 +27,7 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=aadjesus&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfólio:
+## Portfólio de testes:
 - [Swagger Customizado](https://github.com/aadjesus/CustomSwagger)
 
 <!-- GIF -->
