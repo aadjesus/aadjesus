@@ -63,3 +63,5 @@
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
+
+  ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.svg)
