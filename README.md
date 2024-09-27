@@ -43,7 +43,8 @@
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
 
-  ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.svg)
+  [![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.svg)](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.gif)
 
   <div align="center">
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{aadjesus}/count.svg" /></p> 
