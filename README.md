@@ -46,6 +46,9 @@
   [![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.svg)](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.gif)
   ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.gif)
 
+  ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.svg)
+
   <div align="center">
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{aadjesus}/count.svg" /></p> 
   <br></div>
