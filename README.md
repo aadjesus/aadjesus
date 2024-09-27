@@ -47,5 +47,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{aadjesus}/count.svg" /></p> 
   <br></div>
 
-  ## snake eating my contribution graph
   ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.svg)
