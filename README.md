@@ -41,10 +41,10 @@
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>
-
-  ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake.svg)
+  </div>  
 
   <div align="center">
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{aadjesus}/count.svg" /></p> 
   <br></div>
+
+  ![snake gif](https://github.com/aadjesus/aadjesus/blob/output/github-contribution-grid-snake-dark.svg)
