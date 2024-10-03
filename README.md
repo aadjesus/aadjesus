@@ -1,11 +1,7 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá</h1></summary>
-</div>
 
 <!-- Links -->
-[🖇️Links](https://linklist.bio/aadjesus)
+[![Links](https://github.com/aadjesus/aadjesus/blob/master/Imagens/logolinklist.svg)](https://linklist.bio/aadjesus)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=aadjesus&show_icons=true&theme=gotham)
@@ -13,7 +9,9 @@
 <!-- Portfolio -->
 ## Portfólio de testes:
 - [Swagger Customizado](https://github.com/aadjesus/CustomSwagger)
-
+- [NHibernateExtensionMethods](https://github.com/aadjesus/NHibernateExtensionMethods)
+- [scaffold-cli](https://github.com/aadjesus/scaffold-cli)
+ 
 ## 🔥 Habilidades 
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
